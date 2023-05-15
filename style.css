@@ -1,0 +1,23 @@
+body{
+    /* margin: 0; */
+    height: 100vh;
+    /* width: 100%; */
+    background: linear-gradient(to top left, #0066ff 0%, #cc00ff 100%);
+}
+.logo {
+    float:left;
+    height: max(50px);
+    border-radius: 25px;
+    border: #cc00ff;
+    overflow:scroll;
+}
+
+
+.nav-btn{
+    float:right;
+    height:50px;
+    background-image:url(btn-bg.jpg);
+    border-radius: 25px;
+    border: #cc00ff;
+    /* box-shadow: #cc00ff; */
+}
