@@ -52,7 +52,7 @@ body {
 }
 
 .container {
-    height: calc(3em + 4px);
+    height: 7vh;
 }
 
 .nav-sec {
